@@ -1,0 +1,358 @@
+gene,qval ,up_or_down,gene_name,description
+FBgn0003071,8.91E-05,up,Pfk,"Catalyzes the phosphorylation of D-fructose 6-phosphate to fructose 1,6-bisphosphate by ATP, the first committing step of glycolysis."
+FBgn0028426,0.000458442,down,JhI-1,"Juvenile hormone-inducible protein 1 is a highly conserved gene that codes for the endoribonuclease RNase Z, which cleaves pre-tRNA molecules directly 3' to the discriminator. RNase Z has at least two biological roles - nuclear pre-tRNA processing and mitochondrial primary transcript processing."
+FBgn0013679,0.00108102,up,mt:ND1,Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity).
+FBgn0013680,0.00108102,up,mt:ND2,"The NADH:ubiquinone oxidoreductase complex (Mitochondrial Complex I) is the first enzyme of the mitochondrial electron transport chain. It oxidizes NADH from the tricarboxylic acid cycle and β oxidation of fatty acids, reduces ubiquinone and transports protons across the inner membrane, contributing to the proton-motive force. It is also involved in the cellular production of reactive oxygen species."
+FBgn0013681,0.00108102,up,mt:ND3,oxidation-reduction process.
+FBgn0015075,0.00108102,up,Ddx1,"Acts as an ATP-dependent RNA helicase, able to unwind both RNA-RNA and RNA-DNA duplexes. Possesses 5' single-stranded RNA overhang nuclease activity (By similarity)."
+FBgn0021761,0.00108102,up,Nup154,single-organism developmental process; protein localization to nucleus; cellular developmental process; regulation of protein localization to membrane; spindle assembly involved in male meiosis; nuclear envelope organization; developmental growth; protein import; microtubule-based process; nucleic acid transport.
+FBgn0027571,0.00108102,up,FASN1,"catalytic activity; transferase activity, transferring acyl groups; fatty acid synthase activity; transferase activity; acyl-[acyl-carrier-protein] hydrolase activity; hydrolase activity; hydrolase activity, acting on ester bonds; transferase activity, transferring acyl groups other than amino-acyl groups; [acyl-carrier-protein] S-malonyltransferase activity; oxidoreductase activity; 3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity; amide binding."
+FBgn0029825,0.00108102,down,CG12728,double-strand break repair
+FBgn0033354,0.00108102,up,FANCI,DNA repair; mitotic G2 DNA damage checkpoint.
+FBgn0051759,0.00108102,up,CG31759,
+FBgn0083987,0.00108102,down,snRNA:U11,
+FBgn0085364,0.00108102,up,MRE16,mRNA-like ncRNA in embryogenesis 16
+FBgn0013684,0.001112807,up,mt:ND5,Core subunit of the mitochondrial membrane respiratory chain NADH dehydrogenase (Complex I) that is believed to belong to the minimal assembly required for catalysis. Complex I functions in the transfer of electrons from NADH to the respiratory chain. The immediate electron acceptor for the enzyme is believed to be ubiquinone (By similarity).
+FBgn0038870,0.001112807,up,Oga,"O-GlcNAcase, together with sxc, is responsible for O-GlcNAcylation. O-GlcNAcylation is a dynamic post-translational modification that modifies serine and threonine residues of proteins, and plays important roles in biological functions such as metabolism and neurodegeneration."
+FBgn0259203,0.001112807,up,CG42307,
+FBgn0087035,0.001373516,up,AGO2,"Argonaute 2 is an Argonaute/Piwi family protein, which interacts with small interfering RNAs (siRNAs) to form RNA-induced silencing complexes (RISCs). RISCs are guided to target and cleave transcripts (mostly from transposons and viruses)."
+FBgn0000032,0.00139637,up,Acph-1,dephosphorylation.
+FBgn0028538,0.00139637,down,Sec71,vesicle-mediated transport; regulation of ARF protein signal transduction.
+FBgn0033698,0.00139637,up,CG8858,proteasome assembly
+FBgn0038349,0.001465202,up,AOX3,oxidation-reduction process; acetaldehyde metabolic process; xanthine catabolic process.
+FBgn0003559,0.001598486,up,su(f),RNA 3'-end processing; mRNA cleavage; positive regulation of malate dehydrogenase (decarboxylating) (NADP+) activity; mRNA processing.
+FBgn0003891,0.001625527,up,tud,"Required during oogenesis for the formation of primordial germ cells and for normal abdominal segmentation. Tud protein localizes to both the nuage, an electron-dense material associated with nurse cell nuclei, and the germ plasm (Bardsley, 1993)."
+FBgn0265434,0.001625527,up,zip,Nonmuscle myosin appears to be responsible for cellularization. Required for morphogenesis and cytokinesis.
+FBgn0036000,0.001664607,up,CG3434,"Non-catalytic subunit of the queuine tRNA-ribosyltransferase (TGT) that catalyzes the base-exchange of a guanine (G) residue with queuine (Q) at position 34 (anticodon wobble position) in tRNAs with GU(N) anticodons (tRNA-Asp, -Asn, -His and -Tyr), resulting in the hypermodified nucleoside queuosine (7-(((4, 5-cis-dihydroxy-2-cyclopenten-1-yl)amino)methyl)-7-deazaguanosine)."
+FBgn0259173,0.0017051,up,corn,positive regulation of exocytosis
+FBgn0033029,0.001785454,up,Not3,"The CCR4-NOT complex is a conserved multi-subunit complex implicated in various cellular processes to regulated gene expression. It is best characterised in its role as the main enzyme responsible for the deadenylation of mRNA. The conserved core of the complex is composed of two modules: the NOT module and a catalytic module comprising two deadenylases, twin and Pop2. ("
+FBgn0005775,0.002042151,up,Con,Connectin (Con) is a transmembrane homophilic cell adhesion protein. Con roles include axon guidance and target recognition.
+FBgn0003934,0.00234344,up,snRNA:U5:23D,"mRNA splicing, via spliceosome."
+FBgn0026620,0.00234344,up,tacc,"Transforming acidic coiled-coil protein (Tacc) is a centrosomal protein that helps to stabilize microtubules. It seems to influence microtubules indirectly, primarily through its interaction with msps. Tacc is also phosphorylated by aurA, and this activates its ability to stabilize microtubules."
+FBgn0030478,0.00234344,down,CG1640,biosynthetic process
+FBgn0036448,0.00234344,up,mop,"cell communication; intracellular transport; vesicle-mediated transport; nervous system development; regulation of growth; vesicle-mediated transport between endosomal compartments; cellular component organization or biogenesis; retrograde transport, endosome to Golgi; macromolecule modification; enzyme linked receptor protein signaling pathway."
+FBgn0051613,0.00234344,down,His3:CG31613,Core component of nucleosome.
+FBgn0053803,0.00234344,down,His3:CG33803,Core component of nucleosome.
+FBgn0053806,0.00234344,down,His3:CG33806,Core component of nucleosome.
+FBgn0053809,0.00234344,down,His3:CG33809,Core component of nucleosome.
+FBgn0053812,0.00234344,down,His3:CG33812,Core component of nucleosome.
+FBgn0053815,0.00234344,down,His3:CG33815,Core component of nucleosome.
+FBgn0053833,0.00234344,down,His3:CG33833,Core component of nucleosome.
+FBgn0053836,0.00234344,down,His3:CG33836,Core component of nucleosome.
+FBgn0053839,0.00234344,down,His3:CG33839,Core component of nucleosome.
+FBgn0053842,0.00234344,down,His3:CG33842,Core component of nucleosome.
+FBgn0053845,0.00234344,down,His3:CG33845,Core component of nucleosome.
+FBgn0053848,0.00234344,down,His3:CG33848,Core component of nucleosome.
+FBgn0053851,0.00234344,down,His3:CG33851,Core component of nucleosome.
+FBgn0053854,0.00234344,down,His3:CG33854,Core component of nucleosome.
+FBgn0053857,0.00234344,down,His3:CG33857,Core component of nucleosome.
+FBgn0053860,0.00234344,down,His3:CG33860,Core component of nucleosome.
+FBgn0053863,0.00234344,down,His3:CG33863,Core component of nucleosome.
+FBgn0053866,0.00234344,down,His3:CG33866,Core component of nucleosome.
+FBgn0261286,0.00234344,up,Mat89Ba,cellular response to starvation; tRNA export from nucleus; rRNA processing.
+FBgn0000100,0.002502663,up,RpLP0,
+FBgn0262952,0.002750275,up,mt:ND4,"mitochondrial electron transport, NADH to ubiquinone"
+FBgn0037844,0.003232504,down,CG4570,"developmental process; transposition, DNA-mediated; DNA integration."
+FBgn0262647,0.003443725,up,Nup160,mRNA export from nucleus; double-strand break repair via homologous recombination; SMAD protein import into nucleus.
+FBgn0004797,0.003747077,down,Mdy,Midway (Mdy) is an acyl coenzyme A: diacylglycerol acyltransferase (DGAT) that functions in the formation of triglycerides.
+FBgn0037709,0.003747077,up,CG8199,branched-chain amino acid catabolic process; fatty-acyl-CoA biosynthetic process.
+FBgn0051898,0.003747077,down,CG31898,
+FBgn0058469,0.004076909,up,CR40469,
+FBgn0025724,0.004626618,up,beta'COP,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network. Coatomer complex is required for budding from Golgi membranes, and is essential for the retrograde Golgi-to-ER transport of dilysine-tagged proteins (By similarity)."
+FBgn0052221,0.004626618,down,CG32221,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process.
+FBgn0036480,0.004670585,up,Cep135,Cep135 is a microtubule binding protein important for centriole elongation and stability. It promotes centrosome asymmetry and spindle orientation in neuroblasts and it is required for male fertility
+FBgn0039204,0.004926983,up,CG6607,Rab protein signal transduction.
+FBgn0047199,0.004926983,down,CG31517,
+FBgn0013674,0.005252465,up,mt:CoI,"electron transport coupled proton transport; mitochondrial electron transport, cytochrome c to oxygen; aerobic respiration."
+FBgn0013685,0.005252465,up,mt:ND6,oxidation-reduction process.
+FBgn0033206,0.005252465,up,DCTN4-p62,Dynactin is a large 1.2 MDa multisubunit protein complex that associates with the cytoplasmic dynein complex to drive microtubule-based transport.
+FBgn0052113,0.005252465,up,CG32113,vesicle mediated transport
+FBgn0250876,0.005326804,up,Sema5c,"The Semaphorins are a family of membrane and secreted short-range signaling proteins, originally characterized for their role in axon guidance. The major signal transducing receptors for the semaphorins are the plexins."
+FBgn0036509,0.005330815,up,CG7739,
+FBgn0037578,0.005389545,up,CG9601,DNA 3' dephosphorylation involved in DNA repair; polynucleotide 3' dephosphorylation; DNA repair.
+FBgn0038651,0.005550211,up,Epg5,lateral inhibition; autophagy; autophagosome maturation
+FBgn0023542,0.005672193,up,Nmd3,ribosomal large subunit export from nucleus; cellular response to starvation.
+FBgn0033194,0.005672193,up,Vps13,protein metabolic process; protein targeting to vacuole
+FBgn0013675,0.005829787,up,mt:CoII,ATP synthesis coupled electron transport.
+FBgn0025874,0.006496859,up,Meics,Zinc finger C2H2 transcription factors are sequence-specific DNA binding proteins that regulate transcription. They possess DNA-binding domains that are formed from repeated Cys2His2 zinc finger motifs.
+FBgn0041100,0.00703992,up,park,response to oxidative stress; organelle organization; single-multicellular organism process; locomotory behavior; compound eye pigmentation; male gamete generation; zinc ion homeostasis; anatomical structure homeostasis; homeostatic process; multicellular organismal reproductive process.
+FBgn0031710,0.007272167,up,Vps52,"GARP is a tethering complex, which is found on the Golgi and involved in retrograde traffic from endosomes. GARP complex has been shown to exist in two versions, called GARPI and GARPII, that differ in their composition. ("
+FBgn0261797,0.007272167,up,Dhc64C,"Dynein heavy chain 64C (Dhc64C) is the heavy chain subunit of the cytoplasmic dynein motor complex. The Dhc64C heavy chain dimer binds and hydrolyzes ATP, providing the power for movement of dynein. Dhc64C has an essential function in oocyte polarity, mitotic cell division, embryonic development, and neuronal transport and neurogenesis."
+FBgn0034706,0.007422007,up,CG11275,protein ubiquitination involved in ubiquitin-dependent protein catabolic process; regulation of proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process.
+FBgn0010238,0.007980286,up,Lac,Required for normal tracheal development and maintenance of the trans-epithelial diffusion barrier. Functions as a homophilic cell-adhesion molecule. May play a role in early neuronal differentiation and axon outgrowth.
+FBgn0011336,0.008140471,up,Stt3B,protein N-linked glycosylation via asparagine; post-translational protein modification.
+FBgn0033450,0.008140471,up,Lsm11,"regulation of alternative mRNA splicing, via spliceosome; mRNA 3'-end processing by stem-loop binding and cleavage"
+FBgn0033971,0.008648995,up,CG10209,CG10209 is a DNA binding nuclear apoptosis-inducing factor involved in the apoptotic process.
+FBgn0035082,0.009506294,down,CG2811,
+FBgn0261243,0.009506294,up,Psa,peptide catabolic process; proteolysis
+FBgn0032845,0.010091834,up,CG10747,lipid metabolic process.
+FBgn0000319,0.010502352,up,Chc,"endocytosis; positive regulation of cellular component organization; signal transduction; synaptic vesicle localization; regionalization; protein transport; regulation of transport; positive regulation of signal transduction; single-organism organelle organization; nucleic acid transport; biological adhesion; regulation of signal transduction; regulation of growth; secretory granule organization; regulation of tube size, open tracheal system; organelle localization."
+FBgn0013683,0.01052808,up,mt:ND4L,"The NADH:ubiquinone oxidoreductase complex (Mitochondrial Complex I) is the first enzyme of the mitochondrial electron transport chain. It oxidizes NADH from the tricarboxylic acid cycle and β oxidation of fatty acids, reduces ubiquinone and transports protons across the inner membrane, contributing to the proton-motive force. It is also involved in the cellular production of reactive oxygen species."
+FBgn0040305,0.010737343,down,MTF-1,"Metal response element-binding Transcription Factor-1 is a zinc finger protein that primarily controls the homeostasis of physiological trace metals, such as zinc and copper, and the detoxification of non-essential, toxic heavy metals, such as cadmium, mercury, and silver. It activates a number of genes in response to heavy metal load but also induces transcription of the copper importer Ctr1B upon copper depletion. Variations in the DNA binding site can affect its response to a specific metal"
+FBgn0032782,0.011290443,down,Rab9,"Rab9 is a member of the Rab subfamily of small GTPases associated with late endosomes. It promotes membrane budding and retrograde recycling of endocytosed materials to the Golgi apparatus. Rab9 roles include recycling of tracheal luminal proteins and tracheal tube length control.The Rab family are members of the Ras superfamily of small GTPases. Rabs regulate vesicle trafficking including cargo selection, vesicle budding, transport, docking and targeting. They localize to different intracellular compartments directed by specific isoprenylation of C-terminal motifs."
+FBgn0040823,0.011456608,up,dpr6,Defective proboscis extension reponse (Dpr) members belong to the immunoglobulin superfamily and possess three Ig domains. Dprs form a complex interaction network with Dpr-interacting proteins (DIPs). Dprs and DIPs act as neuronal surface labels involved in the specificity of synaptic connections between neurons and their target cells. dpr1 was the first member of the family to be described with a defective proboscis extension response.
+FBgn0261799,0.011456608,up,dsx-c73A,"Doublesex cognate 73A is a secreted cuticle protein present in the epidermis, salivary duct and trachea. The epidermal expression is under the control of ovo."
+FBgn0266869,0.011456608,up,CR45330,
+FBgn0024833,0.012471083,up,AP-1mu,negative regulation of Notch signaling pathway; vesicle-mediated transport; compound eye development; intracellular protein transport; negative regulation of endocytic recycling; secretory granule organization; intracellular transport.
+FBgn0033688,0.012471083,up,Prp8,"Pre-mRNA processing factor 8 (Prp8) is an essential gene that encodes the largest and most highly conserved splicing factor. Prp8 is a core component of the U5 snRNP, with a key function in pre-mRNA processing catalyzed by the spliceosome."
+FBgn0040321,0.012501902,up,GNBP3,detection of molecule of fungal origin; response to fungus; innate immune response-activating signal transduction; regulation of innate immune response; carbohydrate metabolic process.
+FBgn0032524,0.012805273,up,CG9267,very long-chain fatty acid biosynthetic process; sphingolipid biosynthetic process; fatty acid elongation.
+FBgn0003916,0.01297178,down,snRNA:U1:21D,"mRNA splicing, via spliceosome."
+FBgn0004185,0.01297178,down,snRNA:U1:95Ca,
+FBgn0004186,0.01297178,down,snRNA:U1:95Cb,
+FBgn0003301,0.013469219,up,rut,"Rutabaga (Rut) is a a membrane-bound Ca2+/calmodulin-activated adenylyl cyclase that is responsible for synthesis of cAMP. Rut plays a key role in regulating behavioral, neuroanatomical, and electrophysiological plasticity."
+FBgn0004187,0.013469219,down,snRNA:U1:95Cc,The U1 small nuclear ribonucleoprotein particle (U1 snRNP) contains U1 snRNA and initiates spliceosome assembly by binding to the 5' splice site in pre-mRNA.
+FBgn0267347,0.013566809,down,squ,Squash acts in the piRNA pathway that responds to transposase activity in the germline.
+FBgn0010215,0.013698226,up,alpha-Cat,"Associates with the cytoplasmic domain of a variety of cadherins. The association of catenins to cadherins produces a complex which is linked to the actin filament network, and which seems to be of primary importance for cadherins cell-adhesion properties."
+FBgn0085384,0.013698226,up,CG34355,
+FBgn0027603,0.013723791,up,Ulp1,Ulp1 is a cysteine protease that catalyzes both SUMO maturation and SUMO deconjugation. It localizes to the nucleoplasmic face of the nuclear pore complex. Knockdown in S2 cells results in relocalization of SUMO from the nucleus to the cytoplasm.
+FBgn0013676,0.013875768,up,mt:CoIII,aerobic electron transport chain
+FBgn0024984,0.014180053,down,CG3457,anaphase-promoting complex-dependent catabolic process; regulation of mitotic metaphase/anaphase transition.
+FBgn0002645,0.014189666,up,Map205,centrosome cycle; microtubule-based process; mitotic cell cycle.
+FBgn0011327,0.014201992,up,Uch-L5,The ubiquitin C-terminal hydrolase (UCH) sub-family of deubiquitinases are cysteine proteases and that catalyze the removal of ubiquitin from ubiquitin chains and ubiquitinated proteins.
+FBgn0031216,0.014615493,up,Zir,RhoGEFs are Guanine Nucleotide Exchange Factors (GEFs) for Rho family GTPases. They include Dbl-homology domain-containing proteins (the largest family of RhoGEFs) and CZH2 domain/Dock family GEFs.
+FBgn0033092,0.015111636,down,CG9422,tRNA 5'-leader removal; cellular response to starvation.
+FBgn0004400,0.015536952,down,rhi,"Heterochromatin Protein 1 (HP1, Su(var)205) was first discovered in Drosophila as a dominant suppressor of position-effect variegation and a major component of heterochromatin. Members of the HP1 family are characterised by the presence of an N-terminal chromodomain and a C-terminal chromoshadow domain. In addition to heterochromatin packaging and silencing, HP1 proteins have diverse roles in the nucleus, including the regulation of euchromatic genes."
+FBgn0036062,0.016840851,down,CG6685,
+FBgn0003885,0.017189033,up,alphaTub84D,α-Tubulin at 84D is involved in major cellular mechanisms such as formation of spindle apparatus or microtubular threads for transport of proteins or organelles.
+FBgn0050055,0.017189033,down,CR30055,
+FBgn0032224,0.018288944,down,Sps2,selenocysteine biosynthetic process.
+FBgn0000053,0.0184901,up,ade3,purine nucleobase biosynthetic process; 'de novo' IMP biosynthetic process.
+FBgn0011230,0.0184901,up,poe,"Purity of essence encodes a Calmodulin-binding, E3 ubiquitin ligase. It functions in glial growth in peripheral nerves, motor neuron excitability, synaptic vesicle release and sperm individuation."
+FBgn0016054,0.0184901,down,phr6-4,6-4)-photolyase (Phr6-4) is an enzyme that repairs DNA damage induced by ultraviolet light. Phr6-4 uses blue light and cofactor FADH to reverse the pyrimidine(6-4)pyrimidone photoproduct.
+FBgn0030834,0.0184901,down,CG8675,
+FBgn0037001,0.0184901,up,ND-39,"The NADH:ubiquinone oxidoreductase complex (Mitochondrial Complex I) is the first enzyme of the mitochondrial electron transport chain. It oxidizes NADH from the tricarboxylic acid cycle and β oxidation of fatty acids, reduces ubiquinone and transports protons across the inner membrane, contributing to the proton-motive force. It is also involved in the cellular production of reactive oxygen species."
+FBgn0039580,0.0184901,up,Gfat2,UDP-N-acetylglucosamine metabolic process; sleep; protein N-linked glycosylation; fructose 6-phosphate metabolic process.
+FBgn0051611,0.0184901,down,His4:CG31611,
+FBgn0053883,0.0184901,down,His4:CG33883,
+FBgn0053885,0.0184901,down,His4:CG33885,
+FBgn0053887,0.0184901,down,His4:CG33887,
+FBgn0053889,0.0184901,down,His4:CG33889,
+FBgn0053901,0.0184901,down,His4:CG33901,
+FBgn0053903,0.0184901,down,His4:CG33903,
+FBgn0053905,0.0184901,down,His4:CG33905,
+FBgn0053909,0.0184901,down,His4:CG33909,Core component of nucleosome.
+FBgn0250754,0.0184901,up,CG42232,
+FBgn0003517,0.018746128,up,sta,Required for the assembly and/or stability of the 40S ribosomal subunit. Required for the processing of the 20S rRNA-precursor to mature 18S rRNA in a late step of the maturation of 40S ribosomal subunits. Required during oogenesis and imaginal development.
+FBgn0263705,0.019119346,up,Myo10A,"Myosin 10A is an unconventional myosin of the MyTH-FERM superclass that traffics sensory, cytoskeletal, and adhesion cargos. It is required during dorsal closure for proper epithelial alignment and for zippering and fusion of the two epithelial sheets."
+FBgn0032256,0.019291604,down,RluA-2,enzyme-directed rRNA pseudouridine synthesis.
+FBgn0040022,0.019291604,up,Set1,SET domain containing 1 methylates histone H3 on lysine 4 at promoter-proximal regions of most RNA Polymerase II transcribed genes. It is the catalytic subunit of the COMPASS complex.
+FBgn0260441,0.019512111,down,RpS12,
+FBgn0025802,0.019675356,up,Sbf,cortical actin cytoskeleton organization; regulation of Rab protein signal transduction; histone H3-K4 methylation; positive regulation of transcription elongation from RNA polymerase II promoter; endocytic recycling; histone acetylation; mitotic cell cycle; positive regulation of autophagosome maturation; regulation of GTPase activity.
+FBgn0039854,0.020161248,down,CG1635,acyl-CoA metabolic process
+FBgn0052756,0.020548374,down,CG32756,double-strand break repair.
+FBgn0038744,0.020932957,up,CG4733,lateral inhibition
+FBgn0261882,0.021114877,up,THG,"Adds a GMP to the 5'-end of tRNA(His) after transcription and RNase P cleavage. Adds G to 5' end of tRNA, helps aminoacyl synthetase to identify"
+FBgn0025366,0.021547034,down,Ip259,maturation of rRNA
+FBgn0030598,0.021615381,up,CG9503,oxidation-reduction process; ecdysteroid metabolic process.
+FBgn0031832,0.021615381,down,CG9596,tRNA methylation
+FBgn0039538,0.02266859,down,CG12883,
+FBgn0040600,0.02266859,up,CG13631,
+FBgn0033889,0.022696969,up,CG6701,
+FBgn0030174,0.022882291,down,CG15312,
+FBgn0030320,0.022882291,down,CG2247,defense response to bacterium; SCF-dependent proteasomal ubiquitin-dependent protein catabolic process.
+FBgn0035986,0.022882291,down,CG4022,positive regulation of JAK-STAT cascade
+FBgn0260997,0.022882291,up,CG42598,
+FBgn0041087,0.023287957,down,wun2,"Wunen-2 is a lipid phosphate phosphatase, an enzyme with an active site predicted to face extracellularly. It is required for germ cell migration and survival, acting partially redundantly with its paralog wun. Lipid phosphate phosphatases (LPP) are integral membrane proteins, with six putative transmembrane domains, that catalyze the dephosphorylation of a variety of lipid phosphates."
+FBgn0020236,0.023299843,up,ATPCL,ATP citrate synthase activity 
+FBgn0035027,0.023299843,up,CG3511,spliceosome
+FBgn0039417,0.023299843,down,CG6073,
+FBgn0035980,0.023430389,down,mRRF1,Mitochondrial translation recycling factors function in the disassembly of the ribosome-mRNA-tRNA complex following the termination of translation in mitochondria.
+FBgn0001332,0.023652906,down,L,compound eye development; negative regulation of Wnt signaling pathway; negative regulation of JNK cascade; regulation of imaginal disc growth; negative regulation of programmed cell death; eye-antennal disc development.
+FBgn0026869,0.02394872,up,Thd1,"base-excision repair, AP site formation; cellular response to DNA damage stimulus; mismatch repair."
+FBgn0028525,0.02394872,down,c(2)M,Crossover suppressor on 2 of Manheim is a a Kleisin family member in the cohesin proteins. It interacts with cohesins such as SMC1 and SMC3 to promote synaptonemal complex assembly in female meiosis.
+FBgn0050373,0.02394872,up,CG30373,
+FBgn0028487,0.024543669,down,f-cup,
+FBgn0002905,0.024728027,up,mus308,nucleotide-excision repair; DNA-dependent DNA replication; DNA repair; double-strand break repair via alternative nonhomologous end joining.
+FBgn0015756,0.024728027,down,RpL9,"CYTOPLASMIC LARGE RIBOSOMAL PROTEINS - Cytoplasmic ribosomes are found on the endoplasmic reticulum and in the cytoplasm. They translate all mRNAs produced from nuclear genes and perform the majority of cellular protein synthesis. Ribosomes are formed by two ribonucleoprotein subunits, large and small. The principle function of the large subunit is to bind tRNA during the synthesis of polypeptides."
+FBgn0035321,0.025099678,down,CG1275,oxidation-reduction process.
+FBgn0033378,0.025195415,up,tsu,"Core component of the splicing-dependent multiprotein exon junction complex (EJC) deposited at splice junctions on mRNAs (PubMed:14973490, PubMed:24967911). Involved in exon definition of genes containing long introns, including the rolled/MAPK gene (PubMed:20946982, PubMed:20946983). The mago-tsu heterodimer interacts with the EJC key regulator Pym leading to EJC disassembly in the cytoplasm (PubMed:24967911). Has a role in oskar mRNA localization to the posterior pole of the developing oocyte"
+FBgn0004698,0.025373024,up,Xpc,"Xeroderma pigmentosum, complementation group C is involved in recognition of DNA damage and recruitment of nucleotide excision repair proteins"
+FBgn0027525,0.026214494,down,LTV1,DNA endoreduplication; ribosomal small subunit biogenesis; ribosomal small subunit export from nucleus; cell growth; positive regulation of cell size; rRNA processing.
+FBgn0051373,0.026852874,down,CG31373,peptidyl-methionine modification; co-translational protein modification; N-terminal protein amino acid modification.
+FBgn0028978,0.026992612,down,trbl,negative regulation of mitotic nuclear division; regulation of cell cycle; regulation of MAP kinase activity; ventral furrow formation; positive regulation of proteasomal ubiquitin-dependent protein catabolic process; positive regulation of protein ubiquitination involved in ubiquitin-dependent protein catabolic process; gastrulation; negative regulation of insulin receptor signaling pathway.
+FBgn0033183,0.026992612,down,CG1620,trichogen cell; mesothoracic tergum.
+FBgn0037686,0.026992612,down,RpL34b,
+FBgn0036519,0.027288283,down,CG7650,"queuosine biosynthetic process, queuine tRNA-ribosyltransferase activity"
+FBgn0025391,0.027560674,up,Scgdelta,muscle organ development; heart contraction; sarcomere organization; mesoderm development; membrane organization; cytoskeletal anchoring at plasma membrane.
+FBgn0026088,0.027895619,down,CG14818,
+FBgn0033631,0.027895619,down,Sod3,Superoxide dismutase 3 (Sod3) is an extra-cellular Cu Zn superoxide dismutase that can be produced as secreted and membrane bound forms. Sod3 converts oxygen free radicals to hydrogen peroxide and is involved in free radical defense and redox balance
+FBgn0266670,0.02839561,up,Sec5,Component of the exocyst complex involved in the docking of exocytic vesicles with fusion sites on the plasma membrane.
+FBgn0037489,0.028396208,down,CG1234,chromatin binding
+FBgn0053052,0.028871433,down,CG33052,
+FBgn0026401,0.029122129,up,Nipped-B,"Nipped-B interacts with Mau2 to form the kollerin complex, which topologically loads the cohesin ring complex onto chromosomes. Nipped-B and cohesin participate in transcriptional regulation and DNA repair."
+FBgn0020370,0.029357093,up,TppII,"Component of the proteolytic cascade acting downstream of the 26S proteasome in the ubiquitin-proteasome pathway. May be able to complement the 26S proteasome function to some extent under conditions in which the latter is inhibited (By similarity). Efficiently cleaves Ala-Ala-Ala-polypeptide and Pro-Pro-Ala-polypeptide, Val-Leu-Lys-polypeptide only at high concentration. Does not cleave Ala-Phe-Pro-polypeptide nor Pro-Leu-Gly-polypeptide."
+FBgn0002183,0.029667151,up,dre4,DNA replication-independent nucleosome organization; regulation of chromatin assembly or disassembly; positive regulation of transcription elongation from RNA polymerase II promoter.
+FBgn0011236,0.029667151,down,ken,"regulation of JAK-STAT cascade; phagocytosis; copulation; male genitalia development; regulation of transcription, DNA-templated; male analia development; insemination; female genitalia development; female analia development."
+FBgn0015521,0.029667151,down,RpS21,
+FBgn0027786,0.029667151,down,Mtch,regulation of glucose metabolic process; positive regulation of apoptotic process.
+FBgn0033749,0.029852462,down,achi,"Achintya is a homeodomain transcription factor (TGIF subclass), required along with homeodomain protein vis for meiotic division in spermatogenesis. "
+FBgn0040375,0.029852462,down,CG13760,
+FBgn0011747,0.029908785,up,Ank,cytoskeletal anchoring at plasma membrane; signal transduction.
+FBgn0037633,0.030396504,down,CG9839,
+FBgn0010894,0.030676012,down,sinu,"septate junction assembly; dorsal closure; open tracheal system development; heart process; adult chitin-containing cuticle pigmentation; establishment of glial blood-brain barrier; cell adhesion involved in heart morphogenesis; regulation of tube size, open tracheal system."
+FBgn0010409,0.031215661,down,RpL18A,
+FBgn0025725,0.031234213,up,alphaCOP,"localization; transport; establishment of localization; cellular protein localization; Golgi vesicle transport; vesicle-mediated transport; phagocytosis; establishment of localization in cell; cytoskeleton-dependent cytokinesis; retrograde vesicle-mediated transport, Golgi to ER; cellular localization."
+FBgn0025741,0.031234213,up,PlexA,axon midline choice point recognition; regulation of axon extension involved in axon guidance; sensory neuron axon guidance; Ras protein signal transduction; motor neuron axon guidance; axon guidance; semaphorin-plexin signaling pathway involved in regulation of photoreceptor cell axon guidance; positive regulation of guanylate cyclase activity.
+FBgn0031040,0.031234213,down,CG14210,ganglion mother cell; mesothoracic tergum; embryonic/larval neuroblast.
+FBgn0031484,0.031234213,down,CG3165,nucleic acid binding.
+FBgn0033639,0.031234213,down,CG9003,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process; response to endoplasmic reticulum stress
+FBgn0034786,0.031234213,up,CG13531,
+FBgn0039044,0.031234213,down,p53,"p53 is a transcriptional factor required for adaptive responses to genotoxic stress, including cell death, compensatory proliferation and DNA repair."
+FBgn0051053,0.031234213,down,CG31053,protein sumoylation; synapsis.
+FBgn0053832,0.031234213,down,His2A:CG33832,
+FBgn0053835,0.031234213,down,His2A:CG33835,
+FBgn0053838,0.031234213,down,His2A:CG33838,
+FBgn0053841,0.031234213,down,His2A:CG33841,
+FBgn0053844,0.031234213,down,His2A:CG33844,
+FBgn0053847,0.031234213,down,His2A:CG33847,
+FBgn0053850,0.031234213,down,His2A:CG33850,
+FBgn0053862,0.031234213,down,His2A:CG33862,
+FBgn0053865,0.031234213,down,His2A:CG33865,Core component of nucleosome.
+FBgn0027579,0.03195894,up,mino,"Minotaur (Mino) is a member of the conserved glycerol-3-phosphate O-acyltransferase (GPAT) family, which converts glycerol-3-phosphate into lysophosphatidic acid. Mino functions in phosphatidic acid biosynthesis. It is also essential for piRNA biogenesis in gonads, with Mino mutants showing transposon de-repression and sterility phenotypes."
+FBgn0035393,0.03196355,down,CG16753,
+FBgn0034270,0.032079986,up,PIG-A,"Phosphatidylinositol glycan anchor biosynthesis (PIG) genes, characterized extensively in humans, are involved in the synthesis of glycosylphosphatidylinositols (GPI) and their transfer to proteins to act as a lipid bilayer anchor. GPI is synthesized in the endoplasmic reticulum and is attached to the carboxyl terminus of a protein that has a GPI-attachment signal sequence."
+FBgn0032988,0.03285747,up,Tif-IA,transcription initiation from RNA polymerase I promoter for nuclear large rRNA transcript; ribosome biogenesis; female germ-line stem cell population maintenance.
+FBgn0027079,0.032884285,up,ValRS,Cytoplasmic aminoacyl-tRNA synthetases catalyze the ligation of amino acids to their cognate tRNAs in the cytoplasm.
+FBgn0020618,0.032927732,down,Rack1,"Involved in the recruitment, assembly and/or regulation of a variety of signaling molecules. Interacts with a wide variety of proteins and plays a role in many cellular processes"
+FBgn0266717,0.033146573,up,Bruce,catabolic process; regulation of developmental process; negative regulation of catabolic process; organic substance catabolic process; cellular response to nutrient levels; cellular response to external stimulus; regulation of cell cycle; negative regulation of cellular metabolic process; regulation of signal transduction; regulation of cell cycle process.
+FBgn0003302,0.033173779,down,rux,Negative regulator of both mitosis and meiosis. Required for the establishment of the G1 phase in the developing eye
+FBgn0004404,0.033173779,down,RpS14b,
+FBgn0032168,0.033173779,down,CG13126,translation.
+FBgn0033507,0.033293219,down,CG12909,lipid droplet protein-protein interactions (http://www.mcponline.org/content/16/3/329)
+FBgn0035824,0.033611651,down,CG8281,
+FBgn0039904,0.033626419,up,Hcf,"histone modification, chromatin remodeling"
+FBgn0016701,0.034128284,down,Rab4,"The Rab family are members of the Ras superfamily of small GTPases. Rabs regulate vesicle trafficking including cargo selection, vesicle budding, transport, docking and targeting. They localize to different intracellular compartments directed by specific isoprenylation of C-terminal motifs"
+FBgn0034542,0.034128284,down,Fem-1,"Probable component of an E3 ubiquitin-protein ligase complex, in which it may act as a substrate recognition subunit."
+FBgn0035999,0.034128284,down,CG3552,"glucose metabolic process, GDP-D-glucose phosphorylase activity."
+FBgn0038473,0.034496029,down,Ns1,regulation of multicellular organism growth; ribosomal large subunit biogenesis; cellular response to starvation; regulation of cell proliferation; positive regulation of multicellular organism growth; mitotic spindle assembly; regulation of insulin receptor signaling pathway.
+FBgn0014006,0.035095914,up,Ask1,"Apoptotic signal-regulating kinase 1 is a serine/threonine kinase that belongs to the MAPK kinase kinase family. In response to various stresses, it phosphorylates MAPK kinases in JNK and p38 MAPK pathways, inducing cellular stress responses including cell death and immune responses."
+FBgn0085377,0.035104472,down,CG34348,"metabolic process; transferase activity, transferring acyl groups."
+FBgn0031961,0.035198169,up,CG7102,regulation of proteolysis; proteasome-mediated ubiquitin-dependent protein catabolic process; protein ubiquitination involved in ubiquitin-dependent protein catabolic process; spliceosomal snRNP assembly.
+FBgn0034451,0.035198169,up,TBCB,establishment of apical/basal cell polarity; cytoplasmic microtubule organization; oocyte axis specification.
+FBgn0267790,0.035198169,up,rump,"Rumpelstiltskin (Rump) encodes the Drosophila hnRNP M homolog. Rump binds to nos and osk mRNAs and plays a role in mRNA localization to the germ plasm by diffusion/entrapment during late stages of oogenesis. Rump also binds to exonic splicing enhancers on pre-mRNA targets, implicating it as a splicing factor"
+FBgn0024558,0.035276985,down,Dph5,peptidyl-diphthamide biosynthetic process from peptidyl-histidine. dipthamide involved in elongation
+FBgn0025630,0.035276985,down,Rtca,"Catalyzes the conversion of 3'-phosphate to a 2',3'-cyclic phosphodiester at the end of RNA. The mechanism of action of the enzyme occurs in 3 steps: (A) adenylation of the enzyme by ATP; (B) transfer of adenylate to an RNA-N3'P to produce RNA-N3'PP5'A; (C) and attack of the adjacent 2'-hydroxyl on the 3'-phosphorus in the diester linkage to produce the cyclic end product. The biological role of this enzyme is unknown but it is likely to function in some aspects of cellular RNA processing (By similarity)."
+FBgn0032138,0.035276985,down,CG4364,Required for maturation of ribosomal RNAs and formation of the large ribosomal subunit.
+FBgn0261573,0.035276985,up,CoRest,"negative regulation of transcription from RNA polymerase II promoter; negative regulation of histone H3-K27 methylation; positive regulation of transcription of Notch receptor target; negative regulation of histone H4-K16 acetylation; positive regulation of methylation-dependent chromatin silencing; negative regulation of transcription, DNA-templated; positive regulation of Notch signaling pathway."
+FBgn0026879,0.036122135,down,CG13364,Translation machinery associated TMA7.
+FBgn0043362,0.036122135,up,bchs,brain development; neuron development; regulation of synapse organization; positive regulation of organ growth; compound eye development; regulation of protein ubiquitination; chaeta development.
+FBgn0034398,0.036221446,down,CG15098,
+FBgn0036769,0.036408059,down,Tsp74F,cell surface receptor signaling pathway.
+FBgn0038769,0.036604342,up,CG10889,
+FBgn0066084,0.036604342,down,RpL41,
+FBgn0039828,0.037475417,down,CG1542,pre-rRNA processing
+FBgn0085484,0.037475417,up,Pdxk,"Pyridoxal kinase is the enzyme that generates Pyridoxal-5-phosphate, the metabolically active form of vitamin B6. It contributes to chromosome integrity and glucose homeostasis."
+FBgn0001224,0.037509249,up,Hsp23,The small Heat Shock Protein (sHSP) family is characterized by the presence of an α-crystallin domain. sHSPs play a crucial role in protein folding. Most sHSPs have the ability to prevent protein aggregation and to maintain substrate proteins in a refoldable state.
+FBgn0010770,0.037509249,down,ppan,ribosomal large subunit assembly
+FBgn0033021,0.037509249,up,CG10417,protein dephosphorylation.
+FBgn0033413,0.037509249,down,prel,Preli-like is a mitochondrial protein in the PRELI/MSF1 family that contributes to the integrity of mitochondrial structures and the activity of respiratory chain complex IV.
+FBgn0035151,0.037509249,down,CG17129,
+FBgn0036052,0.037509249,up,CG10809,
+FBgn0036624,0.037509249,up,RAF2,regulation of transcription from RNA polymerase II promoter; regulation of multicellular organismal development.
+FBgn0037121,0.037509249,down,Rpb8,transcription from RNA polymerase II promoter; mitotic G2 DNA damage checkpoint.
+FBgn0039923,0.037509249,up,MED26,phagocytosis; transcription initiation from RNA polymerase II promoter; positive regulation of gene expression; regulation of transcription from RNA polymerase II promoter.
+FBgn0053100,0.037509249,down,eIF4EHP,"EIF4E-Homologous Protein (4EHP) binds the 7-methyl-guanosine cap structure of mRNA and functions as a negative regulator of translation. 4EHP contributes to embryonic patterning by negatively regulating translation of cad and hb, and is also implicated in regulating ecdysone biosynthesis."
+FBgn0263018,0.037509249,down,snRNA:U4atac,
+FBgn0003748,0.037640607,down,Treh,"Trehalase, trehalose catabolism"
+FBgn0028406,0.038002874,down,Drep4,apoptotic DNA fragmentation.
+FBgn0030892,0.038002874,down,CG7206,"transcription, DNA-templated."
+FBgn0031483,0.038002874,down,CG9641,
+FBgn0032955,0.038002874,down,CG2201,phosphatidylethanolamine biosynthetic process; phosphorylation; phosphatidylcholine biosynthetic process.
+FBgn0050392,0.038002874,down,CG30392,intermembrane lipid transfer
+FBgn0031434,0.038200718,down,insv,"negative regulation of transcription, DNA-templated; negative regulation of Notch signaling pathway."
+FBgn0013678,0.038271066,up,mt:Cyt-b,"mitochondrial electron transport, ubiquinol to cytochrome c; spermatogenesis."
+FBgn0038746,0.038271066,down,Surf6,ribosome biogenesis; ventral cord development; ribosomal small subunit biogenesis; ribosomal large subunit biogenesis.
+FBgn0027945,0.038428495,down,ppl,The glycine cleavage system catalyzes the degradation of glycine. The H protein shuttles the methylamine group of glycine from the P protein to the T protein (By similarity). Expressed in fat b ody
+FBgn0036772,0.038428495,up,CG5290,
+FBgn0028990,0.038428669,down,Spn27A,inhibits the serine protease ea in dorsoventral patterning of the early embryo
+FBgn0085408,0.038428669,up,Shroom,May be involved in the assembly of microtubule arrays during cell elongation.
+FBgn0011659,0.038433912,down,Mlh1,mismatch repair.
+FBgn0027872,0.038433912,down,rdgBbeta,"signal transduction; transport,Phosphatidylinositol transfer proteins mediate the monomeric transport of lipids by shielding a lipid from the aqueous environment and binding the lipid in a hydrophobic cavity."
+FBgn0034626,0.038433912,down,CG10795,
+FBgn0037773,0.038433912,down,CG5359,microtubule-based movement
+FBgn0045035,0.038447975,up,tefu,"response to organic cyclic compound; gamete generation; response to nitrogen compound; neuron death; macromolecule biosynthetic process; developmental process involved in reproduction; mitotic cell cycle; regulation of mitotic cell cycle; positive regulation of cellular process; regulation of transcription, DNA-templated; histone modification; developmental process; negative regulation of programmed cell death."
+FBgn0032340,0.038740051,up,Ge-1,pole plasm oskar mRNA localization; defense response to fungus; gene silencing by miRNA; deadenylation-independent decapping of nuclear-transcribed mRNA; cytoplasmic mRNA processing body assembly; mRNA catabolic process.
+FBgn0039757,0.039250226,down,RpS7,
+FBgn0032925,0.039394532,up,CG9246,"negative regulation of transcription, through chromatin state "
+FBgn0034177,0.039394532,down,AsnRS-m,Mitochondrial aminoacyl-tRNA synthetases catalyze the ligation of amino acids to their cognate tRNAs in mitochondria. They are encoded by nuclear genes and are imported into mitochondria with the guidance of a 'mitochondrial targeting sequence'.
+FBgn0011272,0.040207277,down,RpL13,Ribosomal protein L13
+FBgn0034299,0.040207277,down,CG5757,dTTP biosynthetic process; dTDP biosynthetic process; dUDP biosynthetic process
+FBgn0051618,0.040207277,down,His2A:CG31618,
+FBgn0053814,0.040207277,down,His2A:CG33814,
+FBgn0053817,0.040207277,down,His2A:CG33817,
+FBgn0053820,0.040207277,down,His2A:CG33820,
+FBgn0053823,0.040207277,down,His2A:CG33823,
+FBgn0053826,0.040207277,down,His2A:CG33826,
+FBgn0053829,0.040207277,down,His2A:CG33829,
+FBgn0266418,0.040207277,up,wake,"Wide awake (Wake) is a clock output molecule that regulates the timing of sleep onset. It upregulates the GABA receptor Rdl in the arousal-promoting large ventrolateral neurons, thus suppressing activity of the these cells at dusk and facilitating sleep onset at that time."
+FBgn0026372,0.040252841,down,RpL23A,"Cytoplasmic ribosomes are found on the endoplasmic reticulum and in the cytoplasm. They translate all mRNAs produced from nuclear genes and perform the majority of cellular protein synthesis. Ribosomes are formed by two ribonucleoprotein subunits, large and small. The principle function of the large subunit is to bind tRNA during the synthesis of polypeptides"
+FBgn0037565,0.040252841,up,CG9626,
+FBgn0022787,0.04040235,up,Hel89B,regulation of transcription from RNA polymerase II promoter (TFIID complex)
+FBgn0032223,0.04040235,up,GATAd,"regulation of transcription, DNA-templated; cell differentiation."
+FBgn0033465,0.04040235,up,Etf-QO,Electron transfer flavoprotein-ubiquinone oxidoreductase (ETF-QO) is a mitochondrial membrane bound protein. ETF-QO acts as a hub with wal and fuels electrons from fatty acid oxidation by matrix dehydrogenases into the respiratory chain.
+FBgn0034735,0.040470691,down,CG4610,mitochondrial tRNA wobble uridine modification; oxidation-reduction process; tRNA methylation.
+FBgn0051279,0.040701501,up,CG31279,
+FBgn0026432,0.040806798,up,Grip163,meiotic cell cycle; mitotic cell cycle; cytoplasmic microtubule organization; interphase microtubule nucleation by interphase microtubule organizing center; mitotic spindle assembly.
+FBgn0015714,0.041441764,up,Cyp6a17,thermosensory behavior; oxidation-reduction process.
+FBgn0039507,0.041441764,down,mrt,olfactory learning; learning or memory.
+FBgn0040284,0.041441764,up,SF2,splicing via splicesome
+FBgn0002283,0.041538345,down,l(3)73Ah,
+FBgn0029137,0.041538345,down,Patsas,"protein palmitoylation, PTM, fatty acid"
+FBgn0001220,0.041673568,up,Hsc70-5,protein folding; mitophagy; positive regulation of mitochondrial membrane potential; mitochondrion morphogenesis.
+FBgn0005654,0.041673568,down,Orc3,The Origin Recognition Complex (ORC) is a multi-subunit complex that binds replication origin during replication initiation. Many ORC subunits belong to the AAA+ superfamily of ATPases.
+FBgn0010741,0.041673568,down,Pfdn2,Binds specifically to cytosolic chaperonin (c-CPN) and transfers target proteins to it. Binds to nascent polypeptide chain and promotes folding in an environment in which there are many competing pathways for nonnative proteins
+FBgn0015269,0.041673568,up,Nf1,response to stress; learning or memory; positive regulation of developmental growth; negative regulation of response to stimulus; positive regulation of cellular process; adult behavior; rhythmic process; behavior; positive regulation of GTPase activity; circadian rhythm; short-term memory; positive regulation of multicellular organism growth; aging; response to temperature stimulus; regulation of multicellular organismal development; regulation of primary metabolic process.
+FBgn0015520,0.041673568,up,nonA-l,"regulation of transcription, DNA-templated; mRNA splicing, via spliceosome."
+FBgn0022023,0.041673568,down,eIF3h,translational initiation; positive regulation of Notch signaling pathway.
+FBgn0027499,0.041673568,up,wde,positive regulation of methylation-dependent chromatin silencing
+FBgn0027868,0.041673568,up,Nup107,cellular component organization or biogenesis; meiotic nuclear division; meiotic cell cycle; gonad development; spermatocyte division; cellular developmental process; ribonucleoprotein complex export from nucleus; regulation of protein localization; organic substance biosynthetic process; RNA export from nucleus; single-organism intracellular transport; development of primary sexual characteristics; positive regulation of protein localization to nucleus.
+FBgn0030421,0.041673568,down,CG3812,"phospholipid biosynthetic process, Phospholipid/glycerol acyltransferase, 1-acylglycerol-3-phosphate O-acyltransferase activity; acylglycerol O-acyltransferase activity."
+FBgn0030679,0.041673568,down,CG8206,protein import into mitochondrial matrix; protein folding; protein stabilization.
+FBgn0034346,0.041673568,up,PIG-O,"Phosphatidylinositol glycan anchor biosynthesis (PIG) genes, characterized extensively in humans, are involved in the synthesis of glycosylphosphatidylinositols (GPI) and their transfer to proteins to act as a lipid bilayer anchor. GPI is synthesized in the endoplasmic reticulum and is attached to the carboxyl terminus of a protein that has a GPI-attachment signal sequence"
+FBgn0034879,0.041673568,down,Rrp4,"The RNA exosome is a 3'-5' exonuclease complex present in the nucleus and cytoplasm that can process and degrade many types of RNAs, including mRNA, rRNA, snRNA, snoRNA and tRNA. In yeast and humans, the exosome has a barrel structure, the core of which is formed by a ring of six RNase PH domain subunits and a cap of three S1/KH-domain subunits."
+FBgn0029849,0.041730455,down,Efr,"Sugar transporter that specifically mediates the transport of UDP-N-acetylglucosamine (UDP-GlcNAc), GDP-fucose and UDP-xylose. Functions redundantly with nac in the O-fucosylation of Notch, positively regulating Notch signaling. Involved in the biosynthesis of heparan sulfate-glycosaminoglycan (HS-GAG) and in Dpp signaling in the wing imaginal disk."
+FBgn0053554,0.042330594,up,Nipped-A,"histone exchange; histone acetylation; DNA repair; transcription, DNA-templated; wing disc pattern formation; regulation of transcription, DNA-templated; phagocytosis; mitotic cytokinesis; positive regulation of Notch signaling pathway; histone H3 acetylation."
+FBgn0003210,0.042936299,up,rb,"Ruby is the beta3-adaptin subunit of the Adaptor protein-3 (AP-3) complex involved in biogenesis of lysosome-related organelles. It is required for regulation of lipid storage, N receptor processing, and eye pigment biogenesis."
+FBgn0028473,0.043309608,down,Non1,mitotic spindle assembly.
+FBgn0039857,0.043309608,down,RpL6,
+FBgn0266465,0.043513936,up,GckIII,"stress-activated protein kinase signaling cascade; trachea morphogenesis; terminal branching, open tracheal system; neuron projection morphogenesis; septate junction assembly; open tracheal system development; regulation of mitotic cell cycle; regulation of apoptotic process; protein phosphorylation."
+FBgn0014031,0.043557732,up,Spat,"glyoxylate catabolic process; glycine biosynthetic process, by transamination of glyoxylate."
+FBgn0029720,0.043557732,up,CG3009,The phospholipase A2 (PLA2) family of proteins catalyze the hydrolysis of the sn-2 ester bond of phospholipids to lysophospholipids and fatty acids. Secreted PLA2 members are generally extracellular.
+FBgn0033174,0.043557732,down,CG11125,
+FBgn0038313,0.043557732,down,CG4338,maturation of SSU-rRNA
+FBgn0260655,0.043557732,up,l(3)76BDm,"TRAPP (TRAnsport Protein Particle) tethering complexes are involved in vesicle trafficking in the secretory pathway. In yeast, three TRAPP complexes (I-III) have been described. In mammals, a single TRAPP complex, TRAPPII, has been described which mediates ER-Golgi and intra-Golgi trafficking. TRAPP complexes possess Rab guanine nucleotide-exchange factor activity."
+FBgn0050466,0.044187808,up,CG30466,SCF-dependent proteasomal ubiquitin-dependent protein catabolic process.
+FBgn0022986,0.044239499,down,qkr58E-1,"mRNA splicing, via spliceosome."
+FBgn0026379,0.044239499,up,Pten,cytoskeleton organization; actin cytoskeleton organization; somatic muscle development; regulation of response to stress; negative regulation of cell proliferation; negative regulation of cell size; lipid homeostasis; cellular protein modification process; phenol-containing compound metabolic process; response to extracellular stimulus.
+FBgn0035228,0.044239499,down,CG12091,protein dephosphorylation
+FBgn0263599,0.044239499,up,l(3)72Ab,"RNA splicing; mRNA splicing, via spliceosome; ventral cord development; regulation of alternative mRNA splicing, via spliceosome; mitotic cell cycle; spermatogenesis."
+FBgn0023170,0.04436993,down,RpL39,
+FBgn0027552,0.04436993,down,CG10863,oxidation-reduction process.
+FBgn0031390,0.04436993,up,tho2,"TRANSCRIPTION EXPORT COMPLEX -The Transcription and export (TREX) complex is a multisubunit complex, which acts throughout RNA biogenesis to couple transcription with nuclear export.The THO complex is a multisubunit complex with a conserved evolutionary function in transcription and mRNA export. In D.mel, its depletion affects the expression and export of a subset of transcripts."
+FBgn0032348,0.04436993,up,CG4751,"The JAMM (JAB1/MPN/MOV34) sub-family of deubiquitinases are Zn2+-binding metalloproteases. In general, JAMMs are components of larger assemblies such as the proteasome and COP9 signalosome. Several members of this family lack the ability to co-ordinate Zn2+ and therefore enzymatically inactive; they may act as scaffold proteins or as ubiquitin-binding modules within complexes."
+FBgn0033716,0.04436993,down,Den1,protein deneddylation; positive regulation of apoptotic process; protein desumoylation.
+FBgn0034800,0.04436993,down,CG3788,"uridine phosphorylase activity, nucleoside metabolic process; nucleotide catabolic process."
+FBgn0038381,0.04436993,down,EndoU,regulation of translation.
+FBgn0039627,0.04436993,down,CG11837,"rRNA modification;  
+Specifically dimethylates two adjacent adenosines in the loop of a conserved hairpin near the 3'-end of 18S rRNA in the 40S particle. "
+FBgn0040346,0.04436993,down,CG3704,RNA polymerase III complex localization to nucleus; RNA polymerase II complex import to nucleus.
+FBgn0086694,0.04436993,up,Bre1,protein monoubiquitination; histone modification; sleep; phagocytosis; histone ubiquitination.
+FBgn0087039,0.04436993,down,Sbp2,detection of temperature stimulus involved in sensory perception of pain; selenocysteine incorporation; positive regulation of dendrite morphogenesis.
+FBgn0038243,0.044650666,down,CG8066,
+FBgn0011207,0.045031463,down,pelo,"Required prior to the first meiotic division for spindle formation and nuclear envelope breakdown during spermatogenesis. It is also required for normal eye patterning and for mitotic divisions in the ovary. Required for ovarian germ line stem cell self-renewal. May play a role in regulating translation. May function in recognizing stalled ribosomes and triggering endonucleolytic cleavage of the mRNA, a mechanism to release non-functional ribosomes and degrade damaged mRNAs. May have ribonuclease activity (Potential)."
+FBgn0041723,0.0453297,up,rho-5,"Rhomboid protease-like protein which has no protease activity but regulates the secretion of several ligands of the epidermal growth factor receptor. Indirectly activates the epidermal growth factor receptor signaling pathway and may thereby regulate sleep, cell survival, proliferation and migration."
+FBgn0037025,0.045771442,up,Spc105R,"Spc105-related (Spc105R) is an essential component of the kinetochore, to which it is recruited by binding to the Mis12 kinetochore complex. Spc105R and Mis12 recruit the Ndc80 complex, which provides the major microtubule binding activity of the kinetochore."
+FBgn0001308,0.046400983,up,Khc,"Kinesin heavy chain (Khc) is the force generating subunit of kinesin-1, a microtubule motor protein. Khc functions in the long-distance transport of cytoplasmic ""cargoes"" such as mRNAs, protein complexes, and organelles"
+FBgn0036838,0.046951522,down,CG3808,RNA processing
+FBgn0010620,0.047279045,down,CG10939,actin cytoskeleton organization; receptor guanylyl cyclase signaling pathway; ion transport; olfactory behavior.
+FBgn0037899,0.047732538,down,RpL24-like,
+FBgn0260965,0.04795582,up,CG42588,ganglion mother cell; embryonic/larval hemocyte; embryonic/larval neuroblast.
+FBgn0004227,0.048383846,up,nonA,"regulation of transcription, DNA-templated; visual behavior; male courtship behavior, veined wing generated song production; mRNA splicing, via spliceosome; visual perception; phototaxis."
+FBgn0035639,0.048956351,down,kri,pyrimidine nucleobase metabolic process; pyrimidine nucleoside salvage.
+FBgn0038834,0.048956351,down,RpS30,
+FBgn0029648,0.049249543,down,CG3603,oxidoreductase activity.
+FBgn0026753,0.049372434,down,Vha13,The V1 domain of V-ATPases is a peripheral membrane domain composed of eight different subunits (A-H) that are expressed as multiple isoforms in a tissue-specific manner. The A and B subunits form a hexameric ring and ATP hydrolysis occurs at catalytic sites located at the interface of these subunits. The other V1 subunits interact with the V0 domain. 
+FBgn0263773,0.049372434,down,fok,
+FBgn0005683,0.049620956,down,pie,Pineapple eye (Pie) contributes to viability of imaginal disc cells and affects germline stem cell renewal. Pie interacts genetically with the Jak/Stat and BMP pathways.
+FBgn0039249,0.04993484,down,CG11168,
